@@ -3,8 +3,8 @@
 The purpose of this project is to demonstrate some of the uses of:
 
 * Classification Algorithms (K Next Neighbors, Decision Trees)
-* Clustering Algorithms
-* Associacion Rules in SPSS 
+* Clustering Algorithms (K means, Agglomerative Clustering)
+* Associacion Rules in SPSS (Apriori Algorithm)
 
 The data set that was worked with is "Paramount TV Shows and Movies": https://www.kaggle.com/datasets/victorsoeiro/paramount-tv-shows-and-movies
 
