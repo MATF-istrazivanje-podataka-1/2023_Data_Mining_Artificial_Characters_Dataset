@@ -1,0 +1,13 @@
+Consequent	Antecedent 	Support %	Confidence %
+encoded_type	encoded_genre = 12 and release_year_BIN = 3	4.622	100.0
+encoded_type	encoded_genre = 12 and imdb_score_BIN = 1	5.409	100.0
+encoded_type	encoded_genre = 12 and imdb_score_BIN = 3	2.07	100.0
+encoded_type	encoded_genre = 12 and release_year_BIN = 3 and imdb_score_BIN = 1	2.96	100.0
+encoded_type	encoded_genre = 12 and imdb_score_BIN = 1 and release_year_BIN = 4	2.449	100.0
+encoded_type	encoded_genre = 12	9.885	99.853
+encoded_type	encoded_genre = 12 and release_year_BIN = 4	5.263	99.723
+encoded_type	encoded_genre = 12 and imdb_score_BIN = 2	2.406	99.394
+encoded_type	encoded_genre = 2 and release_year_BIN = 4	2.085	96.503
+encoded_type	encoded_genre = 2	4.359	95.652
+encoded_type	encoded_genre = 2 and release_year_BIN = 3	2.274	94.872
+encoded_type	encoded_genre = 7	2.172	90.604
